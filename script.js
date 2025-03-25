@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Sure ka?",
+    "Sure an sure na sure baaaa??",
+    "wehhh?",
+    "ayaw mo ata ako ehh...",
+    "sige dito nalang ako sa gilid..",
+    "pag mag no no ka edi don't",
+    "wala na sad na ako",
+    "magiging sad na sad na sad ako",
+    "ge wag nalang",
+    "de joke lang, MAG YES KA NA ISA! ❤️"
 ];
 
 let messageIndex = 0;
